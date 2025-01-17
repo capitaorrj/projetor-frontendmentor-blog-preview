@@ -1,0 +1,14 @@
+
+@media (max-width:800px) {
+    .conteiner{
+        width: 320px;
+    }
+    .imagem-artigo img{
+       width: 280px;
+    }
+}
+@media (max-width:400px) {
+      .conteiner, .imagem-artigo img{
+        width: 86%  
+    }
+}
