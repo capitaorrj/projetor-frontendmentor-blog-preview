@@ -1,0 +1,11 @@
+body {
+    margin:  0 auto;
+    font-size: 19px;
+    box-sizing: border-box;
+}
+ul {
+    list-style: none;
+}
+a {
+    text-decoration: none;
+}
